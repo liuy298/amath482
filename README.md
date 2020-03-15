@@ -1,6 +1,6 @@
 # amath482
 ## Computational Methods for Data Analysis
-Instructor:Craig Gin 
+Instructor:Craig Gin
 TA:Iris Shi
 
 Homework 1: An ultrasound problem
