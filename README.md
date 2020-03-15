@@ -1,5 +1,5 @@
-## amath482
-# Computational Methods for Data Analysis
+# amath482
+## Computational Methods for Data Analysis
 Instructor:Craig Gin 
 TA:Iris Shi
 
